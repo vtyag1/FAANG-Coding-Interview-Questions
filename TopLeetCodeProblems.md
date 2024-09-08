@@ -13,7 +13,8 @@
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  
       ......[solution](https://leetcode.com/problems/product-of-array-except-self/solutions/1342916/3-minute-read-mimicking-an-interview/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  , Solution is Kedans Algo
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
+  ... [solution](https://leetcode.com/problems/maximum-product-subarray/solutions/1608862/java-3-solutions-detailed-explanation-using-image/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
