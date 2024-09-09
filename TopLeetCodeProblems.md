@@ -16,7 +16,7 @@
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) 
   ... [solution](https://leetcode.com/problems/maximum-product-subarray/solutions/1608862/java-3-solutions-detailed-explanation-using-image/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-      [solution and trick](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/48589/9-line-java-code-beats-95-14-run-times/
+      [solution and trick](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/48589/9-line-java-code-beats-95-14-run-times/) in comments
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
