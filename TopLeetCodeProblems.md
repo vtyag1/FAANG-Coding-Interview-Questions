@@ -60,6 +60,7 @@
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
+      https://leetcode.com/problems/word-search/solutions/27811/my-java-solution/
 
 ---
 
