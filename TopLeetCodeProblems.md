@@ -98,7 +98,7 @@
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
      sol https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/64955/clear-java-10-ms/
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-      Trie sol https://leetcode.com/problems/implement-trie-prefix-tree/solutions/3180933/solution/
+  Trie sol https://leetcode.com/problems/implement-trie-prefix-tree/solutions/3305783/easy-solutions-in-java-python-and-c-look-at-once/
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
