@@ -101,6 +101,7 @@
   Trie sol https://leetcode.com/problems/implement-trie-prefix-tree/solutions/3305783/easy-solutions-in-java-python-and-c-look-at-once/
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+    https://leetcode.com/problems/word-search-ii/solutions/59780/java-15ms-easiest-solution-100-00/https://leetcode.com/problems/word-search-ii/solutions/59780/java-15ms-easiest-solution-100-00/
 
 ---
 
